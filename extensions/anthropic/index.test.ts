@@ -40,7 +40,6 @@ describe("anthropic provider replay hooks", () => {
       repairToolUseResultPairing: true,
       validateAnthropicTurns: true,
       allowSyntheticToolResults: true,
-      dropThinkingBlocks: true,
     });
   });
 
